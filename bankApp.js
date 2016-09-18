@@ -11,6 +11,7 @@ const App = React.createClass({
      
     this.setState({
       transactions: [...transactions, newTransaction]
+    }
     });
    
   },
