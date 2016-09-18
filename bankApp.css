@@ -1,0 +1,59 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-size:2.5em;
+}
+
+#radioGroup {
+  text-align: left;
+  margin-left:7em;
+}
+
+#radioGroup label {
+  font-size:0.8em;
+}
+
+
+#transForm {
+
+  margin:  1em auto;
+  text-align: center;
+}
+
+#debitRadio, #creditRadio {
+  height:.7em;
+  margin: 10px;
+}
+
+#amountIn {
+  width:4em;
+  margin-left:5px;
+}
+
+#transactionIn {
+  width:15em;
+  margin-right:3em;
+  margin-left:10px;
+}
+
+.table tr{
+  float:none;
+}
+
+#balance {
+  text-align: center;
+  margin: 0 3em;
+}
+
+
+
+
+
+
+
+
